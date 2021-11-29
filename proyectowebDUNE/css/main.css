@@ -1,0 +1,28 @@
+
+
+.navbar{
+    background-color: black   
+}
+
+.main-header{ 
+    
+    background: url(../img/dune_speedpainting09.jpg);
+    background-size: cover;
+}
+
+.background-overlay{
+    
+    background: hsla(12, 3%, 37%, 0.5);
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.griss{
+ background: rgb(197, 33, 33) ;
+
+}
+
+.team, footer{
+    background: rgb(70, 57, 73);
+}
