@@ -1,2 +1,0 @@
-# DUNE
-proyectowebdune.netlify.app
